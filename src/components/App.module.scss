@@ -1,0 +1,21 @@
+$color: blue;
+
+.button {
+    display: block;
+    margin: 10px;
+    background-color: $color;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.link {
+    text-decoration: none;
+    margin: 5px;
+    color: $color;
+}
+
+.picture {
+    height: 200px;
+}
